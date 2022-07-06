@@ -1,0 +1,5 @@
+﻿/*-----------------------大图展示--------------------------------*/
+#flash { width:960px; height:506px; overflow:hidden; margin:0 auto; margin-bottom:10px; clear:both;}
+#flash a {width:960px; height:506px; display:none; width:282px;height:175px;}
+#flash img {width:960px; height:506px;}
+  
